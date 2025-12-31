@@ -1,0 +1,4 @@
+node_modules/
+session/
+.replit
+package-lock.json
